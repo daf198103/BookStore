@@ -1,4 +1,4 @@
-package utility;
+package com.bookstore.utility;
 
 import java.security.SecureRandom;
 import java.util.Random;
